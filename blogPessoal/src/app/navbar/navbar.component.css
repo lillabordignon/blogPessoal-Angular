@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    border-bottom: 1px solid #BA9F90;
+}
+.navegacao{
+    margin: 0 auto;
+    padding: 20px 0;
+}
+
+.navegacao a{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    color: #C38578;
+    margin: 0 10px;
+}
+
+.navegacao a:hover{
+    color: #594B3F;
+}

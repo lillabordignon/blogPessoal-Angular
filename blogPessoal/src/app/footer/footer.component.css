@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.footer{
+    text-align: center;
+    background-color: #C38578;
+    color: #e0e0e0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+footer p{
+    padding-top: 20px;
+}
+
+ul{
+    list-style: none;
+}
+
+li{
+   display: inline-block;
+   padding: 20px;
+}
+
+li a{
+    font-size: 40px;
+ }
+
+a{
+    color: #594B3F;
+}
+
+a:hover{
+    color: #fff;
+}
+
+#copyright{
+    font-size: 13px;
+    background-color: #594B3F;
+    padding: 10px;
+}
