@@ -1,0 +1,25 @@
+.imagem{
+    width: 300px;
+    margin: 20px 0 30px 0;
+    box-shadow: 1px 1px 5px #3f3f3f;
+}
+
+.alinhar{
+    text-align: center;
+    color: #594B3F;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.alinhar h1{
+    margin-top: 50px;
+}
+
+.botao{
+    background-color: #C38578;
+    border: 1px solid #cf8b7d;
+    margin: 10px 0 30px 0;
+}
+
+.botao:hover{
+    color: #594B3F;
+}
