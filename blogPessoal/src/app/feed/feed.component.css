@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+.botao{
+    color: #fff;
+    background-color: #C38578;
+    border: 1px solid #cf8b7d;
+}
+
+.botao:hover{
+    color: #594B3F;
+}
