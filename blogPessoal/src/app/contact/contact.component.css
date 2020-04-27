@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans&display=swap');
+
+*{
+    font-family: 'Work Sans', sans-serif;
+}
+
+form{
+    margin: 50px auto;
+    background-color: #C38578;
+}
+.titulo{
+    padding-top: 50px;
+    margin-bottom: 50px;
+    color: #594B3F;
+    font-weight: 600;
+    
+}
+
+label{
+    color: #594B3F;
+    font-weight: 600;
+}
+
+input{
+    max-width: 60%;
+    border: 1px solid #cf8b7d;
+    margin: 0 auto;
+}
+
+.botao{
+    color: #C38578;
+    background-color: #fff;
+    border: 1px solid #cf8b7d;
+    font-weight: 600;
+    margin: 10px 0 25px 0 ;
+}
+
+.botao:hover{
+    color: #594B3F;
+}
