@@ -11,7 +11,8 @@ import { ContactComponent } from './contact/contact.component';
 import { HttpClientModule } from '@angular/common/http';
 import { FormsModule} from '@angular/forms'
 import { OrderModule } from 'ngx-order-pipe';
-import { EditarComponent } from './editar/editar.component'
+import { EditarComponent } from './editar/editar.component';
+import { DeletarComponent } from './deletar/deletar.component'
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import { EditarComponent } from './editar/editar.component'
     NavbarComponent,
     FooterComponent,
     ContactComponent,
-    EditarComponent
+    EditarComponent,
+    DeletarComponent
   ],
   imports: [
     BrowserModule,
